@@ -1,0 +1,1 @@
+(defn parseInt [str-n] (Integer/parseInt str-n))
